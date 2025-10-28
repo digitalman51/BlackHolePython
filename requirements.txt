@@ -1,0 +1,10 @@
+# Core dependencies for all simulations
+pygame>=2.1.0
+numpy>=1.21.0
+
+# 3D simulations with GPU acceleration
+PyOpenGL>=3.1.6
+PyOpenGL-accelerate>=3.1.6
+
+# Video recording functionality
+opencv-python>=4.5.0
